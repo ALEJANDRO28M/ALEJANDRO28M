@@ -6,8 +6,8 @@
 
 <br><br>
 
-- :school: Soy Un programador junior enfocado siempre en el crecimiento personal, explorando la carrera de Analisis y Desarrollo de Software y adquiriendo conocimientos extras en Udemy
-- :technologist: Me apasiona emplear el software para encontrar soluciones a cualquier desafío
+- :school: Soy Un programador junior enfocado siempre en el crecimiento personal, explorando la carrera de Analisis y Desarrollo de Software y adquiriendo conocimientos extras en Udemy.
+- :technologist: Me apasiona emplear el software para encontrar soluciones a cualquier desafío.
 - :student: Estudio de Análisis y Desarrollo de Software, he completado la etapa electiva y ahora me preparo para la práctica. Además, continúo mi formación con cursos de Spring Boot en Udemy para fortalecer mis habilidades en el desarrollo backend.
 - :nerd_face: Siempre aprendiendo cosas nuevas.
 - :thinking: Actualmente estoy abierto a una nueva “oportunidad laboral”, este es mi linkenind donde encontraras mi cv(https://www.linkedin.com/in/luis-alejandro-forero/).
