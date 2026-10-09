@@ -1,95 +1,88 @@
-<h1 align="center">Hola , Soy Alejandro Forero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Alejandro Forero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+
+<h3 align="center">Desarrollador Backend Java · Spring Boot · React</h3>
+
 <p align="center">
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: Soy Un programador junior enfocado siempre en el crecimiento personal, explorando la carrera de Analisis y Desarrollo de Software y adquiriendo conocimientos extras en Udemy.
-- :technologist: Me apasiona emplear el software para encontrar soluciones a cualquier desafío.
-- :student: Estudio de Análisis y Desarrollo de Software, he completado la etapa electiva y ahora me preparo para la práctica. Además, continúo mi formación con cursos de Spring Boot en Udemy para fortalecer mis habilidades en el desarrollo backend.
-- :nerd_face: Siempre aprendiendo cosas nuevas.
-- :thinking: Actualmente estoy abierto a una nueva “oportunidad laboral”, este es mi linkenind donde encontraras mi cv(https://www.linkedin.com/in/luis-alejandro-forero/).
-<br>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecta conmigo
-<p align="center">
-	<a href="https://github.com/ALEJANDRO28M"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/573144938242"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/luis-alejandro-forero/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/alejandro.forero.547389/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://alejandro28m.github.io/PORTFOLIOWEB/"><img src="https://img.shields.io/badge/Portafolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
+  <a href="https://alejandro28m.github.io/PORTFOLIOWEB/cv/CV_Luis_Alejandro_Forero_Desarrollador_Software.pdf"><img src="https://img.shields.io/badge/Hoja%20de%20vida-22d3ee?style=for-the-badge&logo=readdotcv&logoColor=black" alt="Hoja de vida"/></a>
+  <a href="https://www.linkedin.com/in/luis-alejandro-forero/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alejandroforero928@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
+  <a href="https://wa.me/573144938242"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
+---
 
+## 👨‍💻 Sobre mí
 
-## 🛠️ Mis habilidades
+- 🎓 **Tecnólogo en Análisis y Desarrollo de Software** (SENA), con formación complementaria en Java y Spring Boot.
+- 💼 **Experiencia profesional como Desarrollador Backend Java** en Primarket: 1.040 horas certificadas construyendo APIs REST para una plataforma de e-commerce.
+- 🚀 **Cofundador y desarrollador de LUFORA**, el e-commerce de tecnología de mi emprendimiento.
+- ☁️ Me preparo para la certificación **AWS Certified Cloud Practitioner**.
+- 🤝 **Abierto a nuevas oportunidades** como desarrollador backend o full stack. 📍 Bogotá, Colombia.
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture>Lenguajes de programación (Backend)
+## 💼 Experiencia
 
-<p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
+**Desarrollador Backend Java — PRIMARKET** · Remoto (Buenos Aires, Argentina) · Jun – Dic 2025
+
+- Más de **15 endpoints REST** con Spring Boot, JPA/Hibernate y MySQL, aplicando principios SOLID y patrones de diseño.
+- **Autenticación y autorización con JWT**, verificación de cuenta por correo y carga de archivos entre React y el backend.
+- **Chatbot interno de soporte** que redujo cerca de un 30 % las consultas manuales del equipo.
+- Trabajo en equipo con **Git Flow**, revisiones de código, análisis de calidad con **SonarQube** y documentación con **Swagger / OpenAPI**.
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **LUFORA** · [documentación](https://github.com/ALEJANDRO28M/lufora_Documents) | E-commerce de tecnología de mi emprendimiento. API REST con 20 endpoints, filtros dinámicos, paginación y seguridad con Spring Security + JWT. Frontend con catálogo, carrito y checkout. *Código en repositorio privado.* | Java 25 · Spring Boot 3 · MySQL · Flyway · Docker · React · TypeScript |
+| **[SACM](https://github.com/ALEJANDRO28M/SACM)** | Sistema de gestión de pacientes para una IPS médica: controladores REST, control de accesos y validaciones en el frontend. | Spring Boot · Hibernate · MySQL · React |
+| **[Portafolio web](https://github.com/ALEJANDRO28M/PORTFOLIOWEB)** | Mi portafolio personal, responsivo y publicado con GitHub Pages. | HTML · CSS · JavaScript |
+
+## 🛠️ Tecnologías
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo de Frontend
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
+**Bases de datos**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software y Herramientas
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+**Herramientas y calidad**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubeserver&logoColor=white" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Usados
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
+---
 
-<br> 
-
+<p align="center"><i>¿Tienes una vacante o un proyecto? Escríbeme y conversemos. 🙌</i></p>
