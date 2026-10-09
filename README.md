@@ -24,10 +24,10 @@
 
 **Desarrollador Backend Java — PRIMARKET** · Remoto (Buenos Aires, Argentina) · Jun – Dic 2025
 
-- Más de **15 endpoints REST** con Spring Boot, JPA/Hibernate y MySQL, aplicando principios SOLID y patrones de diseño.
+- Más de **15 endpoints REST** con Spring Boot, JPA/Hibernate y MySQL, aplicando principios SOLID, DRY y patrones de diseño.
 - **Autenticación y autorización con JWT**, verificación de cuenta por correo y carga de archivos entre React y el backend.
 - **Chatbot interno de soporte** que redujo cerca de un 30 % las consultas manuales del equipo.
-- Trabajo en equipo con **Git Flow**, revisiones de código, análisis de calidad con **SonarQube** y documentación con **Swagger / OpenAPI**.
+- Trabajo en equipo con **Git Flow** y **Conventional Commits**, revisiones de código, análisis de calidad con **SonarQube** y documentación con **Swagger / OpenAPI**.
 
 ## 🚀 Proyectos destacados
 
